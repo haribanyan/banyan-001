@@ -12,7 +12,6 @@ include"partials/dbconfig.php";
     <meta name="viewport" content="width=device-width initial-scale=1.0">
     <title>SVT ERP</title>
     <!-- GLOBAL MAINLY STYLES-->
-    <link href="assets/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
     <link href="assets/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
     <link href="assets/vendors/line-awesome/css/line-awesome.min.css" rel="stylesheet" />
     <link href="assets/vendors/themify-icons/css/themify-icons.css" rel="stylesheet" />
