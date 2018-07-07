@@ -1,0 +1,930 @@
+[08-Mar-2018 18:45:20 Etc/GMT] PHP Parse error:  syntax error, unexpected ''.pdf'' (T_CONSTANT_ENCAPSED_STRING) in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 383
+[08-Mar-2018 18:45:49 Etc/GMT] PHP Parse error:  syntax error, unexpected ''.pdf'' (T_CONSTANT_ENCAPSED_STRING) in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 383
+[08-Mar-2018 18:46:09 Etc/GMT] PHP Parse error:  syntax error, unexpected ''.pdf'' (T_CONSTANT_ENCAPSED_STRING) in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 383
+[08-Mar-2018 18:46:23 Etc/GMT] PHP Parse error:  syntax error, unexpected ''.pdf'' (T_CONSTANT_ENCAPSED_STRING) in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 383
+[08-Mar-2018 18:46:48 Etc/GMT] PHP Parse error:  syntax error, unexpected ''.pdf'' (T_CONSTANT_ENCAPSED_STRING) in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 383
+[08-Mar-2018 18:47:13 Etc/GMT] PHP Parse error:  syntax error, unexpected ''.pdf'' (T_CONSTANT_ENCAPSED_STRING) in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 383
+[08-Mar-2018 18:48:24 Etc/GMT] PHP Warning:  imagecreatefrompng(http://www.intellyticshub.com/svt_crm/dev/partials/dev/partials/images/assign1.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 7039
+[08-Mar-2018 18:48:24 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[08-Mar-2018 18:48:24 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[08-Mar-2018 18:48:24 Etc/GMT] PHP Notice:  Undefined index: gst in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[08-Mar-2018 18:49:30 Etc/GMT] PHP Warning:  imagecreatefrompng(http://www.intellyticshub.com/svt_crm/dev/partials/dev/partials/images/assign1.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 7039
+[08-Mar-2018 18:49:30 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[08-Mar-2018 18:49:30 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[08-Mar-2018 18:49:30 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[08-Mar-2018 18:49:30 Etc/GMT] PHP Notice:  Undefined index: gst in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[08-Mar-2018 19:44:37 Etc/GMT] PHP Warning:  imagecreatefrompng(http://www.intellyticshub.com/svt_crm/dev/partials/dev/partials/images/assign1.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 7039
+[08-Mar-2018 19:44:37 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[08-Mar-2018 19:44:37 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[08-Mar-2018 19:44:37 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[08-Mar-2018 19:44:37 Etc/GMT] PHP Notice:  Undefined index: gst in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[08-Mar-2018 19:44:51 Etc/GMT] PHP Warning:  imagecreatefrompng(http://www.intellyticshub.com/svt_crm/dev/partials/dev/partials/images/assign1.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 7039
+[08-Mar-2018 19:44:51 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[08-Mar-2018 19:44:51 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[08-Mar-2018 19:44:51 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[08-Mar-2018 19:44:51 Etc/GMT] PHP Notice:  Undefined index: gst in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[08-Mar-2018 19:44:51 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[08-Mar-2018 19:44:51 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[08-Mar-2018 19:44:51 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[08-Mar-2018 19:44:51 Etc/GMT] PHP Notice:  Undefined index: gst in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[08-Mar-2018 19:49:17 Etc/GMT] PHP Warning:  imagecreatefrompng(http://www.intellyticshub.com/svt_crm/dev/partials/dev/partials/images/assign1.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 7039
+[08-Mar-2018 19:49:17 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[08-Mar-2018 19:49:17 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[08-Mar-2018 19:49:17 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[08-Mar-2018 19:49:17 Etc/GMT] PHP Notice:  Undefined index: gst in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[08-Mar-2018 19:50:23 Etc/GMT] PHP Warning:  imagecreatefrompng(http://www.intellyticshub.com/svt_crm/dev/partials/dev/partials/images/assign1.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 7039
+[08-Mar-2018 19:50:23 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[08-Mar-2018 19:50:23 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[08-Mar-2018 19:50:23 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[08-Mar-2018 19:52:37 Etc/GMT] PHP Warning:  imagecreatefrompng(http://www.intellyticshub.com/svt_crm/dev/partials/dev/partials/images/assign1.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 7039
+[08-Mar-2018 19:52:37 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[08-Mar-2018 19:52:37 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[08-Mar-2018 19:52:37 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[08-Mar-2018 19:53:34 Etc/GMT] PHP Warning:  imagecreatefrompng(http://www.intellyticshub.com/svt_crm/dev/partials/assign1.png): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 7039
+[08-Mar-2018 19:53:34 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[08-Mar-2018 19:53:34 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[08-Mar-2018 19:53:34 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[08-Mar-2018 19:54:23 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[08-Mar-2018 19:54:23 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[08-Mar-2018 19:54:23 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[08-Mar-2018 19:56:08 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[08-Mar-2018 19:56:08 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[08-Mar-2018 19:56:08 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[08-Mar-2018 19:57:01 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[08-Mar-2018 19:57:01 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[08-Mar-2018 19:57:01 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[09-Mar-2018 04:38:10 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[09-Mar-2018 04:38:10 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[09-Mar-2018 04:38:10 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[09-Mar-2018 05:09:36 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[09-Mar-2018 05:09:36 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[09-Mar-2018 05:09:36 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[09-Mar-2018 07:41:24 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[09-Mar-2018 07:41:24 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[09-Mar-2018 07:41:24 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[10-Mar-2018 04:59:18 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[10-Mar-2018 04:59:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[10-Mar-2018 04:59:18 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[12-Mar-2018 12:42:16 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[12-Mar-2018 12:42:16 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[12-Mar-2018 12:42:16 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[12-Mar-2018 16:38:27 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[12-Mar-2018 16:38:27 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[12-Mar-2018 16:38:27 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[12-Mar-2018 16:39:21 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[12-Mar-2018 16:39:21 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[12-Mar-2018 16:39:21 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[12-Mar-2018 16:39:42 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[12-Mar-2018 16:39:42 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[12-Mar-2018 16:39:42 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[14-Mar-2018 15:19:12 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[14-Mar-2018 15:19:12 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 15:19:12 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[14-Mar-2018 15:36:26 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 281
+[14-Mar-2018 15:36:26 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 284
+[14-Mar-2018 15:36:26 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 15:38:06 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 281
+[14-Mar-2018 15:38:06 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 284
+[14-Mar-2018 15:38:06 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 15:39:52 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 281
+[14-Mar-2018 15:39:52 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 284
+[14-Mar-2018 15:39:52 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 15:40:07 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 281
+[14-Mar-2018 15:40:07 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 284
+[14-Mar-2018 15:40:07 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 15:42:13 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 281
+[14-Mar-2018 15:42:13 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 284
+[14-Mar-2018 15:42:13 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 15:43:29 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 281
+[14-Mar-2018 15:43:29 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 284
+[14-Mar-2018 15:43:29 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 15:46:46 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 281
+[14-Mar-2018 15:46:46 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 284
+[14-Mar-2018 15:46:46 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 15:47:39 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 281
+[14-Mar-2018 15:47:39 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 284
+[14-Mar-2018 15:47:39 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 15:51:04 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 283
+[14-Mar-2018 15:51:04 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 15:51:04 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[14-Mar-2018 15:52:39 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 287
+[14-Mar-2018 15:52:39 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 290
+[14-Mar-2018 15:52:39 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 292
+[14-Mar-2018 15:53:15 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 15:53:15 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 15:53:15 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 15:57:14 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 15:57:14 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 15:57:14 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 15:58:50 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 15:58:50 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 15:58:50 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 15:58:56 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 15:58:56 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 15:58:56 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 15:59:19 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 15:59:19 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 15:59:19 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 15:59:34 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 15:59:34 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 15:59:34 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:00:43 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:00:43 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:00:43 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:02:03 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:02:03 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:02:03 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:02:52 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:02:52 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:02:52 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:02:52 Etc/GMT] PHP Notice:  Undefined index: cols in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16936
+[14-Mar-2018 16:02:52 Etc/GMT] PHP Notice:  Undefined index: cols in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16936
+[14-Mar-2018 16:02:52 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18122
+[14-Mar-2018 16:02:52 Etc/GMT] PHP Notice:  Undefined variable: colid in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18186
+[14-Mar-2018 16:02:52 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 16:02:52 Etc/GMT] PHP Notice:  Undefined variable: colid in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18191
+[14-Mar-2018 16:02:52 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18196
+[14-Mar-2018 16:02:52 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 16:02:52 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 16:03:29 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:03:29 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:03:29 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:03:29 Etc/GMT] PHP Notice:  Undefined index: rows in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16924
+[14-Mar-2018 16:03:29 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16926
+[14-Mar-2018 16:03:29 Etc/GMT] PHP Notice:  Undefined index: rows in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16924
+[14-Mar-2018 16:03:29 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16926
+[14-Mar-2018 16:03:29 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18122
+[14-Mar-2018 16:03:29 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 16:03:29 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 16:03:29 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 16:03:54 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:03:54 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:03:54 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:03:54 Etc/GMT] PHP Notice:  Undefined index: rows in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16924
+[14-Mar-2018 16:03:54 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16926
+[14-Mar-2018 16:03:54 Etc/GMT] PHP Notice:  Undefined index: rows in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16924
+[14-Mar-2018 16:03:54 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16926
+[14-Mar-2018 16:03:54 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18122
+[14-Mar-2018 16:03:54 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 16:03:54 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 16:03:54 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 16:03:54 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18124
+[14-Mar-2018 16:03:54 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 16:03:54 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 16:03:54 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 16:04:21 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:04:21 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:04:21 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:04:21 Etc/GMT] PHP Notice:  Undefined index: rows in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16924
+[14-Mar-2018 16:04:21 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16926
+[14-Mar-2018 16:04:21 Etc/GMT] PHP Notice:  Undefined index: rows in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16924
+[14-Mar-2018 16:04:21 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16926
+[14-Mar-2018 16:04:21 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18122
+[14-Mar-2018 16:04:21 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 16:04:21 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 16:04:21 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 16:04:21 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18124
+[14-Mar-2018 16:04:21 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 16:04:21 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 16:04:21 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 16:04:26 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:04:26 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:04:26 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:04:26 Etc/GMT] PHP Notice:  Undefined index: rows in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16924
+[14-Mar-2018 16:04:26 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16926
+[14-Mar-2018 16:04:26 Etc/GMT] PHP Notice:  Undefined index: rows in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16924
+[14-Mar-2018 16:04:26 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16926
+[14-Mar-2018 16:04:26 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18122
+[14-Mar-2018 16:04:26 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 16:04:26 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 16:04:26 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 16:04:26 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18124
+[14-Mar-2018 16:04:26 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 16:04:26 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 16:04:26 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 16:04:55 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:04:55 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:04:55 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:04:55 Etc/GMT] PHP Notice:  Undefined index: rows in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16924
+[14-Mar-2018 16:04:55 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16926
+[14-Mar-2018 16:04:55 Etc/GMT] PHP Notice:  Undefined index: rows in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16924
+[14-Mar-2018 16:04:55 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16926
+[14-Mar-2018 16:04:55 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18122
+[14-Mar-2018 16:04:55 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 16:04:55 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 16:04:55 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 16:04:55 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18124
+[14-Mar-2018 16:04:55 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 16:04:55 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 16:04:55 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 16:05:16 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:05:16 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:05:16 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:05:16 Etc/GMT] PHP Notice:  Undefined index: cols in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16936
+[14-Mar-2018 16:05:16 Etc/GMT] PHP Notice:  Undefined index: cols in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16936
+[14-Mar-2018 16:05:16 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18122
+[14-Mar-2018 16:05:16 Etc/GMT] PHP Notice:  Undefined variable: colid in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18186
+[14-Mar-2018 16:05:16 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 16:05:16 Etc/GMT] PHP Notice:  Undefined variable: colid in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18191
+[14-Mar-2018 16:05:16 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18196
+[14-Mar-2018 16:05:16 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 16:05:16 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 16:05:16 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18124
+[14-Mar-2018 16:05:16 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 16:05:16 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 16:05:16 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 16:07:29 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:07:29 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:07:29 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:07:29 Etc/GMT] PHP Notice:  Undefined index: cols in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16936
+[14-Mar-2018 16:07:29 Etc/GMT] PHP Notice:  Undefined index: cols in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16936
+[14-Mar-2018 16:07:29 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18122
+[14-Mar-2018 16:07:29 Etc/GMT] PHP Notice:  Undefined variable: colid in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18186
+[14-Mar-2018 16:07:29 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 16:07:29 Etc/GMT] PHP Notice:  Undefined variable: colid in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18191
+[14-Mar-2018 16:07:29 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18196
+[14-Mar-2018 16:07:29 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 16:07:29 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 16:07:29 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18124
+[14-Mar-2018 16:07:29 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 16:07:29 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 16:07:29 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 16:15:27 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:15:27 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:15:27 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:15:27 Etc/GMT] PHP Notice:  Undefined index: cols in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16936
+[14-Mar-2018 16:15:27 Etc/GMT] PHP Notice:  Undefined index: cols in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16936
+[14-Mar-2018 16:15:27 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18122
+[14-Mar-2018 16:15:27 Etc/GMT] PHP Notice:  Undefined variable: colid in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18186
+[14-Mar-2018 16:15:27 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 16:15:27 Etc/GMT] PHP Notice:  Undefined variable: colid in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18191
+[14-Mar-2018 16:15:27 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18196
+[14-Mar-2018 16:15:27 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 16:15:27 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 16:15:27 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18124
+[14-Mar-2018 16:15:27 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 16:15:27 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 16:15:27 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 16:16:11 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:16:11 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:16:11 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:16:11 Etc/GMT] PHP Notice:  Undefined index: cols in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16936
+[14-Mar-2018 16:16:11 Etc/GMT] PHP Notice:  Undefined index: cols in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16936
+[14-Mar-2018 16:16:11 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18122
+[14-Mar-2018 16:16:11 Etc/GMT] PHP Notice:  Undefined variable: colid in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18186
+[14-Mar-2018 16:16:11 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 16:16:11 Etc/GMT] PHP Notice:  Undefined variable: colid in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18191
+[14-Mar-2018 16:16:11 Etc/GMT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18196
+[14-Mar-2018 16:16:11 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 16:16:11 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 16:16:11 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18124
+[14-Mar-2018 16:16:11 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 16:16:11 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 16:16:11 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 16:16:11 Etc/GMT] PHP Notice:  Undefined offset: 8 in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18658
+[14-Mar-2018 16:18:16 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:18:16 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:18:16 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:18:16 Etc/GMT] PHP Notice:  Undefined index: cols in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 16936
+[14-Mar-2018 16:18:44 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:18:44 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:18:44 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:19:30 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:19:30 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:19:30 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:20:14 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:20:14 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:20:14 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:21:19 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:21:19 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:21:19 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:21:58 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:21:58 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:21:58 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:24:53 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:24:53 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:24:53 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:25:29 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:25:29 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:25:29 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:25:47 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:25:47 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:25:47 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:25:56 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:25:56 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:25:56 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:26:14 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:26:14 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:26:14 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:34:06 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:34:06 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:34:06 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:35:00 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:35:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:35:00 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:36:03 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:36:03 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:36:03 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:36:45 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:36:45 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:36:45 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:49:32 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:49:32 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:49:32 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 16:50:18 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 16:50:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 16:50:18 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:00:40 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:00:40 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:00:40 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:01:52 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:01:52 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:01:52 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:02:28 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:02:28 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:02:28 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:03:23 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:03:23 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:03:23 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:04:12 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:04:12 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:04:12 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:05:02 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:05:02 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:05:02 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:16:26 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:16:26 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:16:26 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:26:16 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:26:16 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:26:16 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:29:22 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:29:22 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:29:22 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:30:19 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:30:19 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:30:19 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:32:31 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:32:31 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:32:31 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:33:03 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:33:03 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:33:03 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:35:20 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:35:20 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:35:20 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:36:43 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:36:43 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:36:43 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:37:13 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:37:13 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:37:13 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:38:43 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:38:43 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:38:43 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:39:10 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:39:10 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:39:10 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:41:42 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:41:42 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:41:42 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:42:20 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:42:20 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:42:20 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:42:46 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:42:46 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:42:46 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:43:24 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:43:24 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:43:24 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:43:57 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:43:57 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:43:57 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:44:18 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:44:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:44:18 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:47:25 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:47:25 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:47:25 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:48:26 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:48:26 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:48:26 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:49:18 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:49:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:49:18 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:49:47 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:49:47 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:49:47 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:52:57 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:52:57 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:52:57 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:55:02 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:55:02 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:55:02 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:56:23 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:56:23 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:56:23 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:56:57 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:56:57 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:56:57 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:57:24 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:57:24 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:57:24 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 17:58:03 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 17:58:03 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 17:58:03 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:00:09 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:00:09 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:00:09 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:03:24 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:03:24 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:03:24 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:04:01 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:04:01 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:04:01 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:05:20 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:05:20 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:05:20 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:06:33 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:06:33 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:06:33 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:08:15 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:08:15 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:08:15 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:09:04 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:09:04 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:09:04 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:10:27 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:10:27 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:10:27 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:12:05 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:12:05 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:12:05 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:12:41 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:12:41 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:12:41 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:13:52 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:13:52 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:13:52 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:14:26 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:14:26 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:14:26 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:15:35 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:15:35 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:15:35 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:16:00 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:16:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:16:00 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:17:07 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:17:07 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:17:07 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:17:26 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:17:26 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:17:26 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:17:51 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:17:51 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:17:51 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:18:37 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:18:37 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:18:37 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:18:58 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:18:58 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:18:58 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:19:22 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:19:22 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:19:22 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:19:43 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:19:43 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:19:43 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:20:20 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:20:20 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:20:20 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:20:42 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:20:42 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:20:42 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:21:05 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:21:05 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:21:05 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:22:08 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:22:08 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:22:08 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:47:10 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:47:10 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:47:10 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:48:10 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:48:10 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:48:10 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:49:12 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:49:12 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:49:12 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:50:03 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:50:03 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:50:03 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:50:30 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:50:30 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:50:30 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:51:00 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:51:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:51:00 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:51:40 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:51:40 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:51:40 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18122
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: table_columns_width in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18177
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18124
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: table_columns_width in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18177
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18124
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: table_columns_width in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18177
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18124
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: table_columns_width in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18177
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18124
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: table_columns_width in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18177
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18124
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: table_columns_width in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18177
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18189
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacing in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18215
+[14-Mar-2018 18:52:07 Etc/GMT] PHP Notice:  Undefined variable: cellspacingx in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/tcpdf.php on line 18270
+[14-Mar-2018 18:52:24 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:52:24 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:52:24 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:52:46 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:52:46 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:52:46 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:53:23 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:53:23 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:53:23 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:53:52 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:53:52 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:53:52 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:54:19 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:54:19 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:54:19 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:54:45 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:54:45 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:54:45 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:55:06 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:55:06 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:55:06 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:55:47 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:55:47 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:55:47 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:56:18 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:56:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:56:18 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:56:42 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:56:42 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:56:42 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:57:03 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:57:03 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:57:03 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:57:27 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:57:27 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:57:27 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:57:49 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:57:49 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:57:49 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:58:21 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:58:21 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:58:21 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 18:59:10 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 18:59:10 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 18:59:10 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:00:17 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:00:17 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:00:17 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:00:38 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:00:38 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:00:38 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:00:48 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:00:48 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:00:48 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:01:31 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:01:31 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:01:31 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:01:59 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:01:59 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:01:59 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:02:46 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:02:46 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:02:46 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:04:21 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:04:21 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:04:21 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:04:45 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:04:45 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:04:45 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:05:58 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:05:58 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:05:58 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:06:09 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:06:09 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:06:09 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:06:53 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:06:53 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:06:53 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:07:58 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:07:58 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:07:58 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:08:20 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:08:20 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:08:20 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:08:54 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:08:54 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:08:54 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:09:15 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:09:15 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:09:15 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:09:46 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:09:46 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:09:46 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:10:12 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:10:12 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:10:12 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:10:43 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:10:43 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:10:43 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:11:23 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:11:23 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:11:23 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:11:47 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:11:47 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:11:47 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:12:11 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:12:11 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:12:11 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:12:35 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:12:35 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:12:35 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:13:18 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:13:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:13:18 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:14:05 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:14:05 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:14:05 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:14:26 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:14:26 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:14:26 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:14:58 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:14:58 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:14:58 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:15:27 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:15:27 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:15:27 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:16:40 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:16:40 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:16:40 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:24:50 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:24:50 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:24:50 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:24:50 Etc/GMT] PHP Notice:  Undefined index: prod_cgst in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 295
+[14-Mar-2018 19:24:50 Etc/GMT] PHP Notice:  Undefined index: prod_sgst in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 297
+[14-Mar-2018 19:24:50 Etc/GMT] PHP Notice:  Undefined index: prod_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 299
+[14-Mar-2018 19:24:50 Etc/GMT] PHP Notice:  Undefined index: prod_qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 300
+[14-Mar-2018 19:24:50 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 19:24:50 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:24:50 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:24:50 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:24:50 Etc/GMT] PHP Notice:  Undefined index: prod_cgst in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 295
+[14-Mar-2018 19:24:50 Etc/GMT] PHP Notice:  Undefined index: prod_sgst in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 297
+[14-Mar-2018 19:24:50 Etc/GMT] PHP Notice:  Undefined index: prod_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 299
+[14-Mar-2018 19:24:50 Etc/GMT] PHP Notice:  Undefined index: prod_qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 300
+[14-Mar-2018 19:25:10 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:25:10 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:25:10 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:25:10 Etc/GMT] PHP Notice:  Undefined index: prod_cgst in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 295
+[14-Mar-2018 19:25:10 Etc/GMT] PHP Notice:  Undefined index: prod_sgst in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 297
+[14-Mar-2018 19:25:10 Etc/GMT] PHP Notice:  Undefined index: prod_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 299
+[14-Mar-2018 19:25:10 Etc/GMT] PHP Notice:  Undefined index: prod_qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 300
+[14-Mar-2018 19:25:10 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 19:25:10 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:25:10 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:25:10 Etc/GMT] PHP Notice:  Undefined index: prod_desc in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:25:10 Etc/GMT] PHP Notice:  Undefined index: prod_cgst in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 295
+[14-Mar-2018 19:25:10 Etc/GMT] PHP Notice:  Undefined index: prod_sgst in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 297
+[14-Mar-2018 19:25:10 Etc/GMT] PHP Notice:  Undefined index: prod_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 299
+[14-Mar-2018 19:25:10 Etc/GMT] PHP Notice:  Undefined index: prod_qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 300
+[14-Mar-2018 19:27:13 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:27:13 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:27:13 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 19:27:13 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:27:13 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:27:16 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:27:16 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:27:16 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 19:27:39 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:27:39 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:27:39 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 19:27:39 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:27:39 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:28:06 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:28:06 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:28:06 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 19:28:06 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:28:06 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:28:51 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:28:51 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:28:55 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:28:55 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:29:20 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:29:20 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:29:20 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 19:29:20 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:29:20 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:30:00 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:30:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:30:00 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 19:30:00 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:30:00 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:30:55 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:30:55 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:30:55 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 19:30:55 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:30:55 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:31:38 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:31:38 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:31:38 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 304
+[14-Mar-2018 19:31:38 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:31:38 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:31:57 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:31:57 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:31:57 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 304
+[14-Mar-2018 19:31:57 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:31:57 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:33:16 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:33:16 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:33:16 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 304
+[14-Mar-2018 19:33:16 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:33:16 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 289
+[14-Mar-2018 19:33:19 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[14-Mar-2018 19:33:19 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 291
+[14-Mar-2018 19:33:19 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 306
+[14-Mar-2018 19:33:54 Etc/GMT] PHP Notice:  Undefined index: prod_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 288
+[14-Mar-2018 19:33:54 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 292
+[14-Mar-2018 19:33:54 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 307
+[14-Mar-2018 19:48:57 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 284
+[14-Mar-2018 19:48:57 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 286
+[14-Mar-2018 19:49:29 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 284
+[14-Mar-2018 19:49:29 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 287
+[14-Mar-2018 19:49:46 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 284
+[14-Mar-2018 19:50:03 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 284
+[14-Mar-2018 19:53:57 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 296
+[14-Mar-2018 19:53:57 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 297
+[14-Mar-2018 19:53:57 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 298
+[14-Mar-2018 19:53:57 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 307
+[14-Mar-2018 19:56:13 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 296
+[14-Mar-2018 19:56:13 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 297
+[14-Mar-2018 19:56:13 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 298
+[14-Mar-2018 19:56:13 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 307
+[14-Mar-2018 19:56:19 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 296
+[14-Mar-2018 19:56:19 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 297
+[14-Mar-2018 19:56:19 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 298
+[14-Mar-2018 19:56:19 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 307
+[14-Mar-2018 19:56:49 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 296
+[14-Mar-2018 19:56:49 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 297
+[14-Mar-2018 19:56:49 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 298
+[14-Mar-2018 19:56:49 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 307
+[14-Mar-2018 19:58:52 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 296
+[14-Mar-2018 19:58:52 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 297
+[14-Mar-2018 19:58:52 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 298
+[14-Mar-2018 19:58:52 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 307
+[14-Mar-2018 19:59:13 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 296
+[14-Mar-2018 19:59:13 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 297
+[14-Mar-2018 19:59:13 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 298
+[14-Mar-2018 19:59:13 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 307
+[14-Mar-2018 20:00:08 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 296
+[14-Mar-2018 20:00:08 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 297
+[14-Mar-2018 20:00:08 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 298
+[14-Mar-2018 20:00:08 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 307
+[14-Mar-2018 20:02:01 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 296
+[14-Mar-2018 20:02:01 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 297
+[14-Mar-2018 20:02:01 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 298
+[14-Mar-2018 20:02:01 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 307
+[14-Mar-2018 20:08:21 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 297
+[14-Mar-2018 20:08:21 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 298
+[14-Mar-2018 20:08:21 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 299
+[14-Mar-2018 20:08:21 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 308
+[14-Mar-2018 20:09:25 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 297
+[14-Mar-2018 20:09:25 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 298
+[14-Mar-2018 20:09:25 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 299
+[14-Mar-2018 20:09:25 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 308
+[14-Mar-2018 20:09:57 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 297
+[14-Mar-2018 20:09:57 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 298
+[14-Mar-2018 20:09:57 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 299
+[14-Mar-2018 20:09:57 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 308
+[14-Mar-2018 20:15:53 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 73
+[14-Mar-2018 20:15:53 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 304
+[14-Mar-2018 20:15:53 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 305
+[14-Mar-2018 20:15:53 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 306
+[14-Mar-2018 20:15:53 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 315
+[14-Mar-2018 20:16:25 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 73
+[14-Mar-2018 20:16:25 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 304
+[14-Mar-2018 20:16:25 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 305
+[14-Mar-2018 20:16:25 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 306
+[14-Mar-2018 20:16:25 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 315
+[14-Mar-2018 20:17:02 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 73
+[14-Mar-2018 20:17:02 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 315
+[14-Mar-2018 20:17:09 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 73
+[14-Mar-2018 20:17:09 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 304
+[14-Mar-2018 20:17:09 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 305
+[14-Mar-2018 20:17:09 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 306
+[14-Mar-2018 20:17:09 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 315
+[14-Mar-2018 20:17:34 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 73
+[14-Mar-2018 20:17:34 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 304
+[14-Mar-2018 20:17:34 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 305
+[14-Mar-2018 20:17:34 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 306
+[14-Mar-2018 20:17:34 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 315
+[14-Mar-2018 20:18:24 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 73
+[14-Mar-2018 20:18:41 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 73
+[14-Mar-2018 20:19:05 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 74
+[14-Mar-2018 20:19:35 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 74
+[14-Mar-2018 20:20:53 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 301
+[14-Mar-2018 20:20:53 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 302
+[14-Mar-2018 20:20:53 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 20:20:53 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 312
+[14-Mar-2018 20:21:39 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 301
+[14-Mar-2018 20:21:39 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 302
+[14-Mar-2018 20:21:39 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 20:21:39 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 312
+[14-Mar-2018 20:22:21 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 301
+[14-Mar-2018 20:22:21 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 302
+[14-Mar-2018 20:22:21 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 20:22:21 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 312
+[14-Mar-2018 20:23:41 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 301
+[14-Mar-2018 20:23:41 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 302
+[14-Mar-2018 20:23:41 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 20:23:41 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 312
+[14-Mar-2018 20:24:10 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 301
+[14-Mar-2018 20:24:10 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 302
+[14-Mar-2018 20:24:10 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 20:24:10 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 312
+[14-Mar-2018 20:24:38 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 301
+[14-Mar-2018 20:24:38 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 302
+[14-Mar-2018 20:24:38 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 20:24:38 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 312
+[14-Mar-2018 20:25:18 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 301
+[14-Mar-2018 20:25:18 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 302
+[14-Mar-2018 20:25:18 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 20:25:18 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 312
+[14-Mar-2018 20:26:51 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 301
+[14-Mar-2018 20:26:51 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 302
+[14-Mar-2018 20:26:51 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 20:26:51 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 312
+[14-Mar-2018 20:28:12 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 301
+[14-Mar-2018 20:28:12 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 302
+[14-Mar-2018 20:28:12 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 20:28:12 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 312
+[14-Mar-2018 20:29:28 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 301
+[14-Mar-2018 20:29:28 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 302
+[14-Mar-2018 20:29:28 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 20:29:28 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 312
+[14-Mar-2018 20:30:10 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 301
+[14-Mar-2018 20:30:10 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 302
+[14-Mar-2018 20:30:10 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 20:30:10 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 312
+[14-Mar-2018 20:30:45 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 301
+[14-Mar-2018 20:30:45 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 302
+[14-Mar-2018 20:30:45 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[14-Mar-2018 20:30:45 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 312
+[15-Mar-2018 05:05:20 Etc/GMT] PHP Notice:  Undefined index: qty in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 301
+[15-Mar-2018 05:05:20 Etc/GMT] PHP Notice:  Undefined index: unit_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 302
+[15-Mar-2018 05:05:20 Etc/GMT] PHP Notice:  Undefined index: gst_price in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 303
+[15-Mar-2018 05:05:20 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 312
+[15-Mar-2018 13:38:38 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 74
+[15-Mar-2018 13:38:40 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 312
+[15-Mar-2018 13:40:20 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 312
+[15-Mar-2018 16:25:03 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 312
+[16-Mar-2018 11:56:11 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 312
+[16-Mar-2018 12:28:45 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 312
+[16-Mar-2018 12:31:49 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 312
+[17-Mar-2018 00:39:08 Etc/GMT] PHP Notice:  Undefined index: sales_id in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 66
+[17-Mar-2018 00:39:08 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 69
+[17-Mar-2018 00:39:08 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 74
+[17-Mar-2018 00:39:08 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 148
+[17-Mar-2018 00:39:08 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 164
+[19-Mar-2018 05:53:53 Etc/GMT] PHP Notice:  Undefined variable: subtotal in /home/intelkfl/public_html/svt_crm/dev/partials/invoicepdf/eg/pdf.php on line 312
